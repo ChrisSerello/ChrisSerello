@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou Christian Serello 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/christian-serello-moreno/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-serello-moreno/)
 
 ![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisSerello&show_icons=true&theme=radical)
 
@@ -23,7 +23,3 @@ funcionamento das empresas. Por isso, tenho o prazer de me candidatar ao emprego
 T.I ou áreas correlacionadas. Estou certo de que esta função seria uma oportunidade 
 excepcional para eu crescer ainda mais, tanto profissionalmente como pessoa. Sou 
 disciplinado e dedicado a alcançar as metas e objetivos para o sucesso da empresa.
-
-
-
-
