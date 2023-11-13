@@ -6,7 +6,7 @@
 ![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisSerello&show_icons=true&theme=radical)
 
 
-## Tecnologias que uso no meu dia a dia 
+## Tecnologias que uso no meu dia a dia:
 <div style="display: inline_block"><br>
  <img align="center"alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img align="center"alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,3 +23,12 @@ funcionamento das empresas. Por isso, tenho o prazer de me candidatar ao emprego
 T.I ou áreas correlacionadas. Estou certo de que esta função seria uma oportunidade 
 excepcional para eu crescer ainda mais, tanto profissionalmente como pessoa. Sou 
 disciplinado e dedicado a alcançar as metas e objetivos para o sucesso da empresa.
+
+
+## Linguagens que foram utilizadas para meus projetos:
+ <p>Clique nas imagens abaixo para ver os projetos respectivos de cada linguagem.</p>
+    <a href="#COLOCAR CAMINHO">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" /> 
+     <a href="##COLOCAR CAMINHO">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
+    </a>
