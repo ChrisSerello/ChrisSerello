@@ -27,7 +27,7 @@ disciplinado e dedicado a alcançar as metas e objetivos para o sucesso da empre
 
 ## Linguagens que foram utilizadas para meus projetos:
  <p>Clique nas imagens abaixo para ver os projetos respectivos de cada linguagem.</p>
-    <a href="https://github.com/ChrisSerello/Portif-lio/tree/main/Part%20III">
+    <a href="https://github.com/ChrisSerello/Jogo-RPG">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" /> 
      <a href="https://github.com/ChrisSerello/criptografia">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
