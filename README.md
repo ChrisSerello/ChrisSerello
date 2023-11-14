@@ -38,7 +38,7 @@ disciplinado e dedicado a alcançar as metas e objetivos para o sucesso da empre
 
 <div>
     <h2>Contatos:</h2>
-    <a href="### COLOCAR LINK" target="_blank">
+    <a href="https://www.linkedin.com/in/christian-serello-moreno/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40px/>
     </a>
     <a href="### COLOCAR LINK" target="_blank">
