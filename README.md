@@ -34,4 +34,17 @@ disciplinado e dedicado a alcançar as metas e objetivos para o sucesso da empre
     </a>
     <a href="https://github.com/ChrisSerello/Portif-lio">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
+    </a> <br>
+
+<div>
+    <h2>Contatos:</h2>
+    <a href="### COLOCAR LINK" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40px/>
     </a>
+    <a href="### COLOCAR LINK" target="_blank">
+        <img src="https://planet.s3.us-east-1.wasabisys.com/2022/02/gmail-tests-its-new-look-and-will-make-the-total.jpg" width=67px/>
+    </a>
+    <a href="###" target="_blank">
+        <img src="###BAIXAR A IMAGEM " width=40px>
+    </a>
+</div>
