@@ -32,3 +32,6 @@ disciplinado e dedicado a alcançar as metas e objetivos para o sucesso da empre
      <a href="##COLOCAR CAMINHO">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
     </a>
+    <a href="https://github.com/ChrisSerello/Portif-lio">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
+    </a>
