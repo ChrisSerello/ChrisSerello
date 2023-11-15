@@ -41,10 +41,10 @@ disciplinado e dedicado a alcançar as metas e objetivos para o sucesso da empre
     <a href="https://www.linkedin.com/in/christian-serello-moreno/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40px/>
     </a>
-    <a href="### COLOCAR LINK" target="_blank">
+    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPkdxnsqWlTjVdkRnBpvQgDlNqQhkKFmqWBHcMrnQpzPjFmhTPPBrTSgHDZbGvpNsqDMhM" target="_blank">
         <img src="https://planet.s3.us-east-1.wasabisys.com/2022/02/gmail-tests-its-new-look-and-will-make-the-total.jpg" width=67px/>
     </a>
     <a href="###" target="_blank">
-        <img src="###BAIXAR A IMAGEM " width=40px>
+        <img src="###BAIXAR A IMAGEM" width=40px>
     </a>
 </div>
