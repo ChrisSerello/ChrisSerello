@@ -24,7 +24,7 @@ T.I ou áreas correlacionadas. Estou certo de que esta função seria uma oportu
 excepcional para eu crescer ainda mais, tanto profissionalmente como pessoa. Sou 
 disciplinado e dedicado a alcançar as metas e objetivos para o sucesso da empresa.
 
-Tenho habilidades e experiência com SQL Server e Python, com experiência em desenvolvimento 
+Tenho habilidades sólidas com SQL Server e Python, com experiência em desenvolvimento 
 de soluções eficientes e robustas. Estou sempre aberto a novas parcerias e projetos, 
 buscando colaborar em iniciativas que tragam inovação e valor. Se você está à procura 
 de alguém com expertise técnica e um espírito colaborativo, estou à disposição para 
