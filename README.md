@@ -1,6 +1,13 @@
 
 ### Olá! Eu sou Christian Serello 👋
 
+<p align="center">
+    <img src="guia.png" alt="wallpaper" width="160" height="160">
+  </a>
+  <h3 align="center">Segue abaixo minhas informações:</h3>
+</p>
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-serello-moreno/)
 
 ![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisSerello&show_icons=true&theme=radical)
