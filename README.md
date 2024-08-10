@@ -37,6 +37,19 @@ buscando colaborar em iniciativas que tragam inovação e valor. Se você está 
 de alguém com expertise técnica e um espírito colaborativo, estou à disposição para 
 discutirmos oportunidades de trabalho conjunto.
 
+--------------
+
+Passionate about Technology, I have a great interest in delving deeper into this area, 
+I consider it essential for our daily lives, as it is responsible for the smooth functioning 
+of companies. Therefore, I am pleased to apply for a job in IT or related areas. I am sure that 
+this role would be an exceptional opportunity for me to grow even further, both professionally 
+and personally. I am disciplined and dedicated to achieving the goals and objectives for the company's success.
+
+I have solid skills with SQL Server and Python, with experience in developing efficient and robust 
+solutions. I am always open to new partnerships and projects, seeking to collaborate on initiatives
+that bring innovation and value. If you are looking for someone with technical expertise and a collaborative 
+spirit, I am available to discuss opportunities to work together.
+
 ## Linguagens que foram utilizadas para meus projetos:
  <p>Clique nas imagens abaixo para ver os projetos respectivos de cada linguagem.</p>
     <a href="https://github.com/ChrisSerello/Jogo-RPG">
