@@ -1,10 +1,12 @@
 
-### Olá! Eu sou Christian Serello 👋
+### Olá! Eu sou Christian Serello. 👋
+###### Hello! My name is Christian Serello.
 
 <p align="center">
     <img src="guia.png" alt="wallpaper" width="160" height="160">
   </a>
   <h3 align="center">Segue abaixo minhas informações:</h3>
+  <h5 align="center">Below is my information:</h5>
 </p>
 
 
@@ -14,6 +16,7 @@
 
 
 ## Tecnologias que uso no meu dia a dia:
+###### Tecnologies that I use in my daily life
 <div style="display: inline_block"><br>
  <img align="center"alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img align="center"alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -51,7 +54,9 @@ that bring innovation and value. If you are looking for someone with technical e
 spirit, I am available to discuss opportunities to work together.
 
 ## Linguagens que foram utilizadas para meus projetos:
+###### Languages ​​that were used for my projects:
  <p>Clique nas imagens abaixo para ver os projetos respectivos de cada linguagem.</p>
+ <h6>Click on the images below to see the respective projects for each language.</h6>
     <a href="https://github.com/ChrisSerello/Jogo-RPG">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" /> 
      <a href="https://github.com/ChrisSerello/criptografia">
@@ -63,6 +68,7 @@ spirit, I am available to discuss opportunities to work together.
 
 <div>
     <h2>Contatos:</h2>
+    <h6>contacts:</h6>
     <a href="https://www.linkedin.com/in/christian-serello-moreno/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40px/>
     </a>
